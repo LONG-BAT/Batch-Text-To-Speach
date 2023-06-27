@@ -7,7 +7,7 @@ color 3
 title Text To Speach
 mode 200 , 200                                                                                                         
 taskkill /F /im wscript.exe
-set user=%userprofile%
+set user=%userprofile%\documents
 cd \
 cd %user%
 mkdir tpm
